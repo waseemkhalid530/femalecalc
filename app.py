@@ -107,8 +107,6 @@ st.markdown('''---''')
 
 # Header/Subheader
 st.markdown('# Female Delusion Calculator')
-st.markdown('## Find the man of your dreams)
-st.markdown('The accurate alternative to the [Female Delusional Calculator](https://www.remakethelastjedi.comfemale-delusion-calculator(opens in a new tab)).')
 
 # Hero image
 kissing_frogs = Image.open('imgs/kissing-frogs.png')
