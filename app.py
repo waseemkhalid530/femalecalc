@@ -336,16 +336,3 @@ else:
             
     st.markdown('''---''')
 
-#%% Footer
-mcol1, mcol2, mcol3 = st.columns([2, 3, 2])
-
-with mcol1:
-    st.write('')
-
-with mcol2:  
-    # Footer credits
-    footer = '[About](https://www.github.com/becca-mayers/female-options-app) | [Contact](mail-to:rebecca.here.live@gmail.com) | Created with 💙 by [Rebecca Mayers](https://www.beccamayers.com)'
-    st.markdown(footer, unsafe_allow_html = True)
-
-with mcol3:
-    st.write('')
