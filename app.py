@@ -108,9 +108,7 @@ st.markdown('''---''')
 # Header/Subheader
 st.markdown('# Female Delusion Calculator')
 
-# Hero image
-kissing_frogs = Image.open('imgs/kissing-frogs.png')
-st.image(kissing_frogs)
+
 st.write('Image Source [NBC News](https://www.nbcnews.com/better/lifestyle/how-be-better-online-dating-according-psychology-ncna979791). Data Sourced from the [2020 CDC National Health Interview Survey (NHIS)](https://www.cdc.gov/nchs/nhis/2020nhis.htm)  data.')
 
 st.markdown('''---''')
