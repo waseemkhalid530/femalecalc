@@ -203,7 +203,7 @@ else:
     
     with bcol2:
         options_placeholder = st.empty()
-        options_button = options_placeholder.button('What Are My Options?')
+        options_button = options_placeholder.button('Find Out:Female Delusion Calculator Probability Score (%)?')
     
     with bcol3:
         st.write('')
