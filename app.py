@@ -100,7 +100,7 @@ st.session_state.height_range = initial_male_df['Height'].drop_duplicates().sort
 #%% Begin App
 
 # Header credits
-header = '[About](https://www.github.com/becca-mayers/female-options-app) | [Contact](mail-to:rebecca.here.live@gmail.com)'
+header = '[About](#) | [Contact](#)'
 st.markdown(header, unsafe_allow_html = True)
 
 st.markdown('''---''')
