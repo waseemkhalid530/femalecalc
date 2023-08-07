@@ -99,10 +99,6 @@ st.session_state.height_range = initial_male_df['Height'].drop_duplicates().sort
 #-----------------------------------------------------------------------------#
 #%% Begin App
 
-# Header credits
-header = '[About](#) | [Contact](#)'
-st.markdown(header, unsafe_allow_html = True)
-
 st.markdown('''---''')
 
 # Header/Subheader
