@@ -105,8 +105,7 @@ st.markdown('''---''')
 st.markdown('# Female Delusion Calculator')
 
 
-st.write('Data Sourced from the [2020 CDC National Health Interview Survey (NHIS)](https://www.cdc.gov/nchs/nhis/2020nhis.htm)  data.')
-
+st.write('Data Sourced from the [2020 CDC National Health Interview Survey (NHIS)](https://www.cdc.gov/nchs/nhis/2020nhis.htm)  data. Orginal Code [Female Delusion](https://www.remakethelastjedi.com/female-delusion-calculator/) data.')
 st.markdown('''---''')
 
 # Filter Widgets
